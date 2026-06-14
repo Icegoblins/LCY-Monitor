@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "important": true,
+  "force_update": false,
+  "title": "LCY 蓝奏云监控 v1.0.0",
+  "changelog": "当前为示例更新清单。发布新版本时请修改 version、title、changelog、download_url，并上传到 GitHub 仓库的 version.json。",
+  "download_url": "https://github.com/icegoblins/LCY/releases"
+}

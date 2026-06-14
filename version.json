@@ -3,6 +3,6 @@
   "important": true,
   "force_update": false,
   "title": "LCY 蓝奏云监控 v1.0.0",
-  "changelog": "当前为示例更新清单。发布新版本时请修改 version、title、changelog、download_url，并上传到 GitHub 仓库的 version.json。",
+  "changelog": "更新日志：\n1. 新增蓝奏云监控功能。\n2. 新增实时动态功能。\n3. 新增更新检查功能。\n4. 新增更新下载功能。\n5. 新增更新安装功能。\n6. 新增更新卸载功能。\n7. 新增更新重启功能。\n8. 新增更新关闭功能。\n9. 新增更新退出功能。\n10. 新增更新帮助功能。",
   "download_url": "https://github.com/icegoblins/LCY/releases"
 }
